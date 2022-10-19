@@ -1,5 +1,6 @@
 ## I'm a junior frontend developer
 
+### Languges and tools
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/badge/Javascript-090909?style=for-the-badge&logo=javascript)
@@ -8,3 +9,8 @@
 ![node](https://img.shields.io/badge/node-090909?style=for-the-badge&logo=Node.js)
 ![npm](https://img.shields.io/badge/npm-090909?style=for-the-badge&logo=npm)
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
+
+### Follow me
+[![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/AntonKos88)
+[![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=vk&logoColor=4680c2)](https://vk.com/id4741346)
+[![YouTube](https://img.shields.io/badge/YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCsjO9YsAMI66ZWjhhr451ig)
