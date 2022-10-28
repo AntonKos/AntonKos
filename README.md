@@ -1,6 +1,9 @@
 ## I'm a junior frontend developer
 
-### My video presentation
+### My CV
+[CV](https://antonkos.github.io/CV/)
+
+
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 ### Languges and tools
