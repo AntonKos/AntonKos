@@ -17,7 +17,7 @@
 ![node](https://img.shields.io/badge/node-090909?style=for-the-badge&logo=Node.js)
 ![npm](https://img.shields.io/badge/npm-090909?style=for-the-badge&logo=npm)
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
-![REST-API](https://img.shields.io/badge/REST-090909?style=for-the-badge&logo=rest)
+![REST](https://img.shields.io/badge/REST-API-090909?style=for-the-badge&logo=rest)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/AntonKos88)
