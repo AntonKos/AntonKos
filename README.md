@@ -3,7 +3,7 @@
 **[My CV](https://antonkos.github.io/CV/)**
 
 <!-- YOUTUBE:START -->
-- [video-presentation](https://www.youtube.com/watch?v=MX-d6_oVZC0)
+- [video-presentation](https://youtu.be/EMd5z1ugCXM)
 <!-- YOUTUBE:END -->
 
 ### Languges and tools
