@@ -2,7 +2,7 @@
 
 **[My CV](https://antonkos.github.io/CV/)**
 
-### YOUTUBE:
+### VIDEOS:
 
 - [presentation1](https://www.youtube.com/watch?v=ZzK-BaBT_GM)
 - [mvc pattern](https://www.youtube.com/watch?v=m3zlQUbQOrs)
