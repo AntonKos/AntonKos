@@ -2,10 +2,10 @@
 
 **[My CV](https://antonkos.github.io/CV/)**
 
-<!-- YOUTUBE:START -->
-- [mvc pattern](https://www.youtube.com/watch?v=m3zlQUbQOrs)
+###YOUTUBE:
+
 - [presentation1](https://www.youtube.com/watch?v=ZzK-BaBT_GM)
-<!-- YOUTUBE:END -->
+- [mvc pattern](https://www.youtube.com/watch?v=m3zlQUbQOrs)
 
 ### Languges and tools
 
