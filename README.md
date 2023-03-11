@@ -5,10 +5,8 @@
 ### Videos:
 
 <!-- YOUTUBE:START -->
-
-- [presentation1](https://www.youtube.com/watch?v=ZzK-BaBT_GM)
 - [mvc pattern](https://www.youtube.com/watch?v=m3zlQUbQOrs)
-
+- [presentation1](https://www.youtube.com/watch?v=ZzK-BaBT_GM)
 <!-- YOUTUBE:END -->
 
 ### Languges and tools
