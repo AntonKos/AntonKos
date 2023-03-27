@@ -1,6 +1,6 @@
 ## I'm a junior frontend developer
 
-**[My CV](https://antonkos.github.io/CV/)**
+<!-- **[My CV](https://antonkos.github.io/CV/)** -->
 
 ### Videos:
 
