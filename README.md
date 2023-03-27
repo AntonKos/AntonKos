@@ -5,8 +5,7 @@
 ### Videos:
 
 <!-- YOUTUBE:START -->
-
-- [presentation](https://youtu.be/VK9WFAz_X4U)
+- [video presentation](https://www.youtube.com/watch?v=VK9WFAz_X4U)
 - [mvc pattern](https://www.youtube.com/watch?v=m3zlQUbQOrs)
 <!-- YOUTUBE:END -->
 
