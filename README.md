@@ -6,8 +6,8 @@
 
 <!-- YOUTUBE:START -->
 
-- [mvc pattern](https://www.youtube.com/watch?v=m3zlQUbQOrs)
 - [presentation](https://youtu.be/VK9WFAz_X4U)
+- [mvc pattern](https://www.youtube.com/watch?v=m3zlQUbQOrs)
 <!-- YOUTUBE:END -->
 
 ### Languges and tools
