@@ -4,7 +4,9 @@
 
 ### Projects:
 
-https://github.com/AntonKos/Shelter-dom/tree/master
+https://github.com/AntonKos/Shelter-dom/tree/master (HTML, CSS, Javascript, Typescript, Webpack, Pattern MVC)
+https://github.com/AntonKos/christmas/tree/master (HTML, CSS, Javascript, Typescript, Webpack, Pattern MVC)
+https://github.com/AntonKos/rslang-cards/tree/master (HTML, CSS, Javascript, Typescript, Webpack, Pattern MVC)
 
 ### Videos:
 
