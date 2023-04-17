@@ -6,11 +6,12 @@
 
 https://github.com/AntonKos/Shelter-dom/tree/master (HTML, CSS, Javascript, Typescript, Webpack, Pattern MVC)
 https://github.com/AntonKos/christmas/tree/master (HTML, CSS, Javascript, Typescript, Webpack, Pattern MVC)
-https://github.com/AntonKos/rslang-cards/tree/master (HTML, CSS, Javascript, Typescript, Webpack, Pattern MVC)
+https://github.com/AntonKos/rslang-cards/tree/master (HTML, CSS, Javascript, Webpack, Pattern MVC)
 
 ### Videos:
 
 <!-- YOUTUBE:START -->
+
 - [video presentation](https://www.youtube.com/watch?v=VK9WFAz_X4U)
 - [mvc pattern](https://www.youtube.com/watch?v=m3zlQUbQOrs)
 <!-- YOUTUBE:END -->
