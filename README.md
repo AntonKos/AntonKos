@@ -25,6 +25,7 @@ https://github.com/AntonKos/rslang-cards/tree/master (HTML, CSS, Javascript, Web
 ![node](https://img.shields.io/badge/node-090909?style=for-the-badge&logo=Node.js)
 ![npm](https://img.shields.io/badge/npm-090909?style=for-the-badge&logo=npm)
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
+![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
 ![REST-API](https://img.shields.io/badge/REST-090909?style=for-the-badge&logo=rest-api)
 
 ### Follow me
