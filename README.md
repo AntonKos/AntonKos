@@ -8,7 +8,7 @@ https://github.com/AntonKos/Shelter-dom/tree/master (HTML, CSS, Javascript, Type
 https://github.com/AntonKos/christmas/tree/master (HTML, CSS, Javascript, Typescript, Webpack, Pattern MVC)
 https://github.com/AntonKos/rslang-cards/tree/master (HTML, CSS, Javascript, Webpack, Pattern MVC)
 
-### Videos:
+<!--### Videos: -->
 
 <!-- YOUTUBE:START -->
 <!-- [mvc pattern](https://www.youtube.com/watch?v=m3zlQUbQOrs)-->
