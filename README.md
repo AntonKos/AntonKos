@@ -11,7 +11,7 @@ https://github.com/AntonKos/rslang-cards/tree/master (HTML, CSS, Javascript, Web
 ### Videos:
 
 <!-- YOUTUBE:START -->
-- [mvc pattern](https://www.youtube.com/watch?v=m3zlQUbQOrs)
+<!-- [mvc pattern](https://www.youtube.com/watch?v=m3zlQUbQOrs)-->
 <!-- YOUTUBE:END -->
 
 ### Languges and tools
