@@ -32,4 +32,4 @@ https://github.com/AntonKos/rslang-cards/tree/master (HTML, CSS, Javascript, Web
 
 [![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/AntonKos88)
 [![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=vk&logoColor=4680c2)](https://vk.com/id4741346)
-[![YouTube](https://img.shields.io/badge/YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCsjO9YsAMI66ZWjhhr451ig)
+<!-- [![YouTube](https://img.shields.io/badge/YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCsjO9YsAMI66ZWjhhr451ig) -->
