@@ -8,12 +8,6 @@ https://github.com/AntonKos/Shelter-dom/tree/master (HTML, CSS, Javascript, Type
 https://github.com/AntonKos/christmas/tree/master (HTML, CSS, Javascript, Typescript, Webpack, Pattern MVC)
 https://github.com/AntonKos/rslang-cards/tree/master (HTML, CSS, Javascript, Webpack, Pattern MVC)
 
-<!--### Videos: -->
-
-<!-- YOUTUBE:START -->
-<!-- [mvc pattern](https://www.youtube.com/watch?v=m3zlQUbQOrs)-->
-<!-- YOUTUBE:END -->
-
 ### Languges and tools
 
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5)
@@ -32,4 +26,4 @@ https://github.com/AntonKos/rslang-cards/tree/master (HTML, CSS, Javascript, Web
 
 [![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/AntonKos88)
 [![VK](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=vk&logoColor=4680c2)](https://vk.com/id4741346)
-<!-- [![YouTube](https://img.shields.io/badge/YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCsjO9YsAMI66ZWjhhr451ig) -->
+
